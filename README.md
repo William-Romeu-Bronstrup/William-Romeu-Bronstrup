@@ -16,3 +16,8 @@
   <img width="40" height="30" alt="HTML" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img width="40" height="30" alt="HTML" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">  
 <div>
+  
+## Minhas redes
+<div>
+  <a href="https://instagram.com/_bronstrup" rel="nofollow" data-canonical-src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<div>
