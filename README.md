@@ -10,11 +10,12 @@
 
 <div style="display: flex">
   <img width="40" height="30" alt="HTML" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-  <img width="40" height="30" alt="HTML" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-  <img width="40" height="30" alt="HTML" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img width="40" height="30" alt="HTML" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img width="40" height="30" alt="HTML" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img width="40" height="30" alt="HTML" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">  
+  <img width="40" height="30" alt="CSS" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+  <img width="40" height="30" alt="JAVASCRIPT" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img width="40" height="30" alt="REACT" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img width="40" height="30" alt="GIT" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img width="40" height="30" alt="PHP" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
+  <img width="40" height="30" alt="MYSQL" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">  
 <div>
   
 ## Minhas redes
