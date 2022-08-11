@@ -4,7 +4,7 @@
 ## Sou Desenvolvedor Web
 
 - Amo o desenvolvimento de sites :technologist:
-- Atualmente eu estudo na área :books:
+- Atualmente eu estudo na área (Curso técnico / Desenvolvimento de Sistemas) :books:
 
 ### Já desenvolvi sites e projetos com as seguintes tecnologias:
 
