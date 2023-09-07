@@ -4,7 +4,8 @@
 ## Sou Desenvolvedor Web
 
 - Amo o desenvolvimento de sites :technologist:
-- Atualmente eu estudo na área (Curso técnico / Desenvolvimento de Sistemas) :books:
+- Eu estudo na área (Curso técnico / Desenvolvimento de Sistemas) :books:
+- Atualmente eu trabalho na área como estágiario na MJ Cobranças como desenvolvedor front-end (Svelte) :fireworks:
 
 ### Já desenvolvi sites e projetos com as seguintes tecnologias:
 
@@ -12,6 +13,7 @@
   <img width="40" height="30" alt="HTML" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img width="40" height="30" alt="CSS" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img width="40" height="30" alt="JAVASCRIPT" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img width="40" height="30" alt="SVELTE" src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original-wordmark.svg">
   <img width="40" height="30" alt="REACT" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img width="40" height="30" alt="GIT" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img width="40" height="30" alt="PHP" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
