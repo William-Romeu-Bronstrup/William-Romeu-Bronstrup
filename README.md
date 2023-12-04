@@ -5,7 +5,7 @@
 
 - Amo o desenvolvimento de sites :technologist:
 - Eu estudo na área (Curso técnico / Desenvolvimento de Sistemas) :books:
-- Atualmente eu trabalho na área como estágiario na MJ Cobranças como desenvolvedor front-end (Svelte) :fireworks:
+- Experiência na área como estagiário na MJ Cobranças, desenvolvedor front-end (Svelte) :fireworks:
 
 ### Já desenvolvi sites e projetos com as seguintes tecnologias:
 
@@ -17,7 +17,8 @@
   <img width="40" height="30" alt="REACT" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img width="40" height="30" alt="GIT" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img width="40" height="30" alt="PHP" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
-  <img width="40" height="30" alt="MYSQL" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">  
+  <img width="40" height="30" alt="MYSQL" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img width="40" height="30" alt="POSTGRESQL" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">  
 <div>
   
 ## Minhas redes
