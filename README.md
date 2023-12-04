@@ -18,7 +18,8 @@
   <img width="40" height="30" alt="GIT" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img width="40" height="30" alt="PHP" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
   <img width="40" height="30" alt="MYSQL" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img width="40" height="30" alt="POSTGRESQL" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">  
+  <img width="40" height="30" alt="POSTGRESQL" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
+  <img width="40" height="30" alt="VUE JS" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
 <div>
   
 ## Minhas redes
