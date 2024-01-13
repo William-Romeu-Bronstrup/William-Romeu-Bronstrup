@@ -24,13 +24,13 @@
   
 ## Minhas redes
 <div>
-  <a href="https://instagram.com/_bronstrup" rel="nofollow">
+  <a href="https://instagram.com/_bronstrup" rel="nofollow" target="_blank">
     <img width="40" height="30" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg">
   </a>
-  <a href="mailto:williambronstrup13@gmail.com">
+  <a href="mailto:williambronstrup13@gmail.com" target="_blank">
     <img width="40" height="30" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg">
   </a>
-  <a href="https://www.linkedin.com/in/william-bronstrup/">
+  <a href="https://www.linkedin.com/in/william-bronstrup/" target="_blank">
     <img width="40" height="30" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg">
   </a>
 <div>
